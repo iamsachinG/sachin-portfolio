@@ -1,59 +1,70 @@
-# Sachin Gupta Portfolio
+# 🚀 Sachin Gupta Portfolio
 
-My personal portfolio website built using React, Vite, and Framer Motion.
+My personal portfolio website built with React, Vite, and Framer Motion.
 
-## About
+## 👨‍💻 About Me
 
-This portfolio showcases my skills, projects, education, and contact information.
+Hi, I'm Sachin Gupta, a BCA student at Thakur College of Engineering & Technology (TCET), Mumbai.
 
-I am a BCA student at TCET Mumbai and currently focusing on Backend Development while building real-world web projects.
+I'm passionate about Full Stack Development and enjoy building modern, responsive, and user-friendly web applications. Currently, I'm focusing on React, Node.js, Express.js, MongoDB, and modern web technologies while continuously improving my development skills.
 
-## Tech Stack
-
-- React.js
-- Vite
-- JavaScript
-- CSS3
-- Framer Motion
-
-## Features
-
-- Modern UI Design
-- Responsive Layout
-- Smooth Animations
-- Resume Download
-- Project Showcase
-- Contact Section
-
-## Projects
-
-### Weather App
-A weather application that fetches real-time weather data using APIs.
-
-### Spotify UI Clone
-Frontend clone of Spotify built using HTML, CSS, and JavaScript.
-
-### E-Commerce Website
-Responsive shopping website UI with modern design principles.
-
-## Installation
-
-```bash
-git clone https://github.com/iamsachinG/sachin-portfolio.git
-cd sachin-portfolio
-npm install
-npm run dev
-```
-
-## Live Demo
-
-Portfolio will be deployed on Vercel.
-
-## Contact
-
-- GitHub: https://github.com/iamsachinG
-- Location: Mumbai, India
+My long-term goal is to become a skilled software developer and eventually build my own technology business.
 
 ---
 
-Made with ❤️ by Sachin Gupta
+## 🌐 Live Features
+
+- Responsive Design
+- Modern UI/UX
+- Smooth Animations with Framer Motion
+- Resume Download
+- Project Showcase
+- Skills Section
+- Contact Information
+- Mobile Friendly Layout
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Framer Motion
+
+### Tools
+- Git
+- GitHub
+- Vite
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🌿 Trimbak Organic
+Business website developed for an organic products brand with a responsive and modern user interface.
+
+### 🍃 The Leaf
+Modern web application focused on clean UI and responsive design.
+
+### 🌦️ Weather App
+Weather forecasting application using external APIs to display real-time weather information.
+
+### 🐱 MeowFacts
+Fun web application that displays random cat facts using a public API.
+
+---
+
+## 📬 Contact
+
+- Email: guptasachin6299@gmail.com
+- GitHub: https://github.com/iamsachinG
+
+---
+
+## 📄 License
+
+This project is for personal portfolio and educational purposes.
