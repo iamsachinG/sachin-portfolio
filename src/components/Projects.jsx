@@ -1,32 +1,41 @@
 function Projects() {
     const projects = [
-  {
-    title: "Trimbak Organic",
-    description:
-      "Business website developed for an organic products brand with responsive design and modern UI.",
-    github: "https://github.com/iamsachinG/Trimbak_Organic",
-    demo: "https://iamsaching.github.io/Trimbak_Organic/",
-    tech: ["React", "CSS", "JavaScript"]
-  },
+        {
+            title: "Trimbak Organic",
+            description:
+                "Business website developed for an organic products brand with responsive design and modern UI.",
+            github: "https://github.com/iamsachinG/Trimbak_Organic",
+            demo: "https://iamsaching.github.io/Trimbak_Organic/",
+            tech: ["React", "CSS", "JavaScript"]
+        },
 
-  {
-    title: "The Leaf",
-    description:
-      "Modern web application focused on clean UI and responsive design.",
-    github: "https://github.com/iamsachinG/The-Leaf",
-    demo: "https://iamsaching.github.io/The-Leaf/",
-    tech: ["React", "CSS"]
-  },
+        {
+            title: "The Leaf",
+            description:
+                "Modern web application focused on clean UI and responsive design.",
+            github: "https://github.com/iamsachinG/The-Leaf",
+            demo: "https://iamsaching.github.io/The-Leaf/",
+            tech: ["React", "CSS"]
+        },
 
-  {
-    title: "Weather App",
-    description:
-      "Weather forecasting application using external APIs to display real-time weather information.",
-    github: "https://github.com/iamsachinG/Weather",
-    demo: "https://iamsaching.github.io/Weather/",
-    tech: ["React", "Firebase"]
-  }
-];
+        {
+            title: "Weather App",
+            description:
+                "Weather forecasting application using external APIs to display real-time weather information.",
+            github: "https://github.com/iamsachinG/Weather",
+            demo: "https://iamsaching.github.io/Weather/",
+            tech: ["React", "REST API"]
+        },
+
+        {
+            title: "MeowFacts",
+            description:
+                "A fun web application that fetches and displays random cat facts using a public API. Built to practice Fetch API, asynchronous JavaScript, and DOM manipulation.",
+            tech: ["HTML", "CSS", "JavaScript", "REST API"],
+            github: "https://github.com/iamsachinG/MeowFacts",
+            demo: "https://iamsaching.github.io/MeowFacts/"
+        }
+    ];
 
     return (
         <section className="projects" id="projects">

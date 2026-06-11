@@ -3,9 +3,9 @@ function Contact() {
     <section className="contact" id="contact">
       <h2>Contact Me</h2>
 
-      <p>Email: sachin@example.com</p>
-      <p>GitHub: github.com/yourusername</p>
-      <p>LinkedIn: linkedin.com/in/yourusername</p>
+      <p>Email: guptasachin6299@gmail.com</p>
+      <p>GitHub: github.com/iamsachinG</p>
+      <p>LinkedIn: linkedin.com/in/sachingupta6299</p>
     </section>
   );
 }

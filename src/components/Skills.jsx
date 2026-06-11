@@ -2,17 +2,32 @@ function Skills() {
   const skills = [
     "HTML",
     "CSS",
+    "Tailwind CSS",
     "JavaScript",
-    "React",
+    "React.js",
+    "Next.js",
+
     "Node.js",
     "Express.js",
+    "REST API",
+    "GraphQL",
+
     "MongoDB",
+    "MySQL",
+
     "Git",
-    "GitHub"
-  ];
+    "GitHub",
+    "Postman",
+
+    "Docker",
+    "Kubernetes",
+
+    "Python",
+    "TensorFlow"
+  ]
 
   return (
-    <section className="skills">
+    <section id="skills" className="skills">
       <h2>Skills</h2>
 
       <div className="skills-grid">

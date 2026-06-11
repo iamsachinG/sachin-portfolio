@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 function Hero() {
     return (
         <motion.section
+            id="home"
             className="hero"
             initial={{ opacity: 0, y: 50 }}
             animate={{ opacity: 1, y: 0 }}

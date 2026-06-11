@@ -1,17 +1,27 @@
 function About() {
-    return (
-        <section className="about" id="about">
-            <h2>About Me</h2>
+  return (
+    <section className="about" id="about">
+      <h5>ABOUT ME</h5>
 
-            <p>
-                I'm Sachin Gupta, a BCA student at TCET Mumbai.
-                I'm currently focusing on backend development and
-                building real-world projects using modern web technologies.
-                My goal is to become a skilled software developer and
-                eventually build my own business.
-            </p>
-        </section>
-    );
+      <h2>
+        Passionate about building <br />
+        <span>digital experiences</span>
+      </h2>
+
+      <p>
+        I'm Sachin Gupta, a full-stack developer and BCA student at TCET
+        Mumbai passionate about building scalable, user-focused web
+        applications.
+      </p>
+
+      <p>
+        I thrive on turning ideas into digital solutions, combining modern
+        web technologies, responsive design, and problem-solving skills.
+        I enjoy building real-world projects, exploring new technologies,
+        and continuously improving my development journey.
+      </p>
+    </section>
+  );
 }
 
 export default About;
