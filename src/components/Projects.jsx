@@ -1,15 +1,6 @@
 function Projects() {
     const projects = [
         {
-            title: "Trimbak Organic",
-            description:
-                "Business website developed for an organic products brand with responsive design and modern UI.",
-            github: "https://github.com/iamsachinG/Trimbak_Organic",
-            demo: "https://iamsaching.github.io/Trimbak_Organic/",
-            tech: ["React", "CSS", "JavaScript"]
-        },
-
-        {
             title: "The Leaf",
             description:
                 "Modern web application focused on clean UI and responsive design.",
