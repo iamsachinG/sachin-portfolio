@@ -1,21 +1,21 @@
 function Projects() {
     const projects = [
         {
-            title: "The Leaf",
-            description:
-                "Modern web application focused on clean UI and responsive design.",
-            github: "https://github.com/iamsachinG/The-Leaf",
-            demo: "https://iamsaching.github.io/The-Leaf/",
-            tech: ["React", "CSS"]
-        },
-
-        {
             title: "Weather App",
             description:
                 "Weather forecasting application using external APIs to display real-time weather information.",
             github: "https://github.com/iamsachinG/Weather",
             demo: "https://weather-phi-bice.vercel.app/",
             tech: ["React", "REST API"]
+        },
+
+        {
+            title: "The Leaf",
+            description:
+                "Modern web application focused on clean UI and responsive design.",
+            github: "https://github.com/iamsachinG/The-Leaf",
+            demo: "https://iamsaching.github.io/The-Leaf/",
+            tech: ["React", "CSS"]
         },
 
         {
