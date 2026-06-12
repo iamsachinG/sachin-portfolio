@@ -23,7 +23,7 @@ function Projects() {
             description:
                 "Weather forecasting application using external APIs to display real-time weather information.",
             github: "https://github.com/iamsachinG/Weather",
-            demo: "https://iamsaching.github.io/Weather/",
+            demo: "https://weather-phi-bice.vercel.app/",
             tech: ["React", "REST API"]
         },
 
