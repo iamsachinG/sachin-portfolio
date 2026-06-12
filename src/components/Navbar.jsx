@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <nav className="navbar">
-      <h2>My Portfolio</h2>
+      <h2>Sachin Gupta</h2>
 
       <ul>
         <li>

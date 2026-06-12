@@ -291,14 +291,27 @@ body {
   text-align: center;
 }
 
-.contact h2 {
-  font-size: 2.5rem;
-  margin-bottom: 25px;
+.contact-links {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
 }
 
-.contact p {
-  margin-bottom: 15px;
-  font-size: 1.1rem;
+.contact-links a {
+  background: #111827;
+  padding: 15px 25px;
+  border-radius: 12px;
+  border: 1px solid #1e293b;
+  transition: 0.3s;
+  font-size: 1rem;
+}
+
+.contact-links a:hover {
+  transform: translateY(-5px);
+  border-color: #38bdf8;
+  color: #38bdf8;
 }
 
 .footer {
